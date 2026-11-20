@@ -4,7 +4,7 @@
 
 - EMail: connect@oceandruid.dev
 - LinkedIn: [linkedin.com/in/oceandruid](linkedin.com/in/oceandruid)
-- My Tech Log: [oceandruid.dev](oceandruid.dev)
+- My Tech Log: [log.oceandruid.dev](log.oceandruid.dev)
 - My Personal Log: [mrt.im](mrt.im)
   
 ## Experience
